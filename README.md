@@ -1,4 +1,4 @@
 # tanishka
-This is my first Git Repository.
+Git Repository.
 <br>
 Author-Bobbili Tanishka
